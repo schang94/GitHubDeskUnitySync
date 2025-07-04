@@ -1,0 +1,2 @@
+무기 발사는 ProjectTileMovemnet를 이용 했고
+플레이어 Enemy 총알 오브젝트 풀링으로 구현
